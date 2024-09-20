@@ -1,0 +1,1 @@
+/home/david_marinho/AndroidStudioProjects/android-project/app/build/intermediates/cxx/Release/4k6f2u5u/obj/local/x86
