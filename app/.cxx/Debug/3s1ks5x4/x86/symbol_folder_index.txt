@@ -1,0 +1,1 @@
+/home/david_marinho/AndroidStudioProjects/android-project/app/build/intermediates/cxx/Debug/3s1ks5x4/obj/x86

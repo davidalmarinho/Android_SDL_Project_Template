@@ -1,0 +1,73 @@
+{
+  "buildFiles": [
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/CMakeLists.txt",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/CMakeLists.txt",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/CheckCPUArchitecture.cmake",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/macros.cmake",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/sdlchecks.cmake",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/sdlfind.cmake",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/sdlplatform.cmake",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake_uninstall.cmake.in",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/include/SDL_config.h.cmake",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/include/SDL_revision.h.cmake",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/jni/src/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/david_marinho/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/david_marinho/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "main::@145eef247bfb46b6828c": {
+      "artifactName": "main",
+      "abi": "x86_64",
+      "output": "/home/david_marinho/AndroidStudioProjects/android-project/app/build/intermediates/cxx/Debug/3s1ks5x4/obj/x86_64/libmain.so",
+      "runtimeFiles": [
+        "/home/david_marinho/AndroidStudioProjects/android-project/app/build/intermediates/cxx/Debug/3s1ks5x4/obj/x86_64/libSDL2.so"
+      ]
+    },
+    "SDL2main::@e7c329919722962a2ad4": {
+      "artifactName": "SDL2main",
+      "abi": "x86_64",
+      "output": "/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86_64/SDL/libSDL2main.a",
+      "runtimeFiles": []
+    },
+    "sdl_headers_copy::@e7c329919722962a2ad4": {
+      "artifactName": "sdl_headers_copy",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "uninstall::@e7c329919722962a2ad4": {
+      "artifactName": "uninstall",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "SDL2-static::@e7c329919722962a2ad4": {
+      "artifactName": "SDL2-static",
+      "abi": "x86_64",
+      "output": "/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86_64/SDL/libSDL2.a",
+      "runtimeFiles": []
+    },
+    "SDL2::@e7c329919722962a2ad4": {
+      "artifactName": "SDL2",
+      "abi": "x86_64",
+      "output": "/home/david_marinho/AndroidStudioProjects/android-project/app/build/intermediates/cxx/Debug/3s1ks5x4/obj/x86_64/libSDL2.so",
+      "runtimeFiles": []
+    },
+    "SDL2_test::@e7c329919722962a2ad4": {
+      "artifactName": "SDL2_test",
+      "abi": "x86_64",
+      "output": "/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86_64/SDL/libSDL2_test.a",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/CMakeFiles/edit_cache.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/CMakeFiles/rebuild_cache.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/SDL/CMakeFiles/sdl_headers_copy.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/SDL/CMakeFiles/SDL2main.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/SDL/CMakeFiles/SDL2.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/SDL/CMakeFiles/SDL2-static.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/SDL/CMakeFiles/SDL2_test.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/SDL/CMakeFiles/uninstall.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/SDL/CMakeFiles/edit_cache.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/SDL/CMakeFiles/rebuild_cache.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/src/CMakeFiles/main.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/src/CMakeFiles/edit_cache.dir
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86/src/CMakeFiles/rebuild_cache.dir

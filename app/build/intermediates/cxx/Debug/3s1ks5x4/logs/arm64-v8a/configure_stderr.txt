@@ -1,0 +1,28 @@
+CMake Error at SDL/CMakeLists.txt:75 (include):
+  include could not find requested file:
+
+    /home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/macros.cmake
+
+
+CMake Error at SDL/CMakeLists.txt:76 (include):
+  include could not find requested file:
+
+    /home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/sdlchecks.cmake
+
+
+CMake Error at SDL/CMakeLists.txt:77 (include):
+  include could not find requested file:
+
+    /home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/sdlplatform.cmake
+
+
+CMake Error at SDL/CMakeLists.txt:78 (include):
+  include could not find requested file:
+
+    /home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/CheckCPUArchitecture.cmake
+
+
+CMake Error at SDL/CMakeLists.txt:139 (check_cpu_architecture):
+  Unknown CMake command "check_cpu_architecture".
+
+

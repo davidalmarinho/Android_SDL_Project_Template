@@ -1,0 +1,5 @@
+/home/david_marinho/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/x86_64 \
+  SDL2 \
+  main

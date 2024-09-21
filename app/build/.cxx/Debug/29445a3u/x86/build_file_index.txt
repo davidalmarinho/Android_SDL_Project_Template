@@ -1,2 +1,0 @@
-/home/david_marinho/AndroidStudioProjects/android-project/app/jni/Android.mk
-/home/david_marinho/AndroidStudioProjects/android-project/app/jni/Application.mk

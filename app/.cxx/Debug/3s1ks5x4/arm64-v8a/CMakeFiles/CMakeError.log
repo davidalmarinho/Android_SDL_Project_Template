@@ -1,0 +1,27 @@
+Determining if the __GLIBC__ exist failed with the following output:
+Change Dir: /home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/arm64-v8a/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/david_marinho/Android/Sdk/cmake/3.22.1/bin/ninja cmTC_1e851 && [1/2] Building C object CMakeFiles/cmTC_1e851.dir/CheckSymbolExists.c.o
+FAILED: CMakeFiles/cmTC_1e851.dir/CheckSymbolExists.c.o 
+/home/david_marinho/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/david_marinho/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fPIE -MD -MT CMakeFiles/cmTC_1e851.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_1e851.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_1e851.dir/CheckSymbolExists.c.o -c /home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: use of undeclared identifier '__GLIBC__'
+  return ((int*)(&__GLIBC__))[argc];
+                  ^
+1 error generated.
+ninja: build stopped: subcommand failed.
+
+
+File /home/david_marinho/AndroidStudioProjects/android-project/app/.cxx/Debug/3s1ks5x4/arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef __GLIBC__
+  return ((int*)(&__GLIBC__))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}

@@ -1,0 +1,11 @@
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/CMakeLists.txt
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/CMakeLists.txt
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/CheckCPUArchitecture.cmake
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/macros.cmake
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/sdlchecks.cmake
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/sdlfind.cmake
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake/sdlplatform.cmake
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/cmake_uninstall.cmake.in
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/include/SDL_config.h.cmake
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/SDL/include/SDL_revision.h.cmake
+/home/david_marinho/AndroidStudioProjects/android-project/app/jni/src/CMakeLists.txt

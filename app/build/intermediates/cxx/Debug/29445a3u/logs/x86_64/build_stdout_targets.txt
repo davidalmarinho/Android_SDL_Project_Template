@@ -1,3 +1,0 @@
-make: Nothing to be done for 'SDL2'.
-[x86_64] Compile        : main <= main.c
-[x86_64] SharedLibrary  : libmain.so
